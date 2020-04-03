@@ -4,13 +4,8 @@ Print-binary-tree
 Here i use AVL tree to print tree as real root 
 As it easy to be traced
 
-........_____88_____........
-......./............\.......
-....___60_......___95__.....
-.../......\..../.......\....
-.._50_...70_...90_...100__..
-./....\.....\.....\.......\.
-.30..55....77....93.....110. 
+![image](https://user-images.githubusercontent.com/26257041/78385677-87cf8300-75dc-11ea-8dbb-9f5e173e5db2.png)
+
 
 C++ helped me to write this algorithm 
 so if you don't have experiance with it you can download mingw on windows and setup it
