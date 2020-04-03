@@ -6,12 +6,11 @@ As it easy to be traced
 
         _____88_____
        /            \
-    ___60_      ___95__       
+    ___60_      ___95__
    /      \    /       \
-  _50_   70_   90_   100__       
- /    \     \     \       \       
+  _50_   70_   90_   100__
+ /    \     \     \       \
  30  55    77    93     110
- 
 
 C++ helped me to write this algorithm 
 so if you don't have experiance with it you can download mingw on windows and setup it
