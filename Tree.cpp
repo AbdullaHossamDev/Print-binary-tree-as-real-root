@@ -59,6 +59,9 @@ Node<T> *Tree<T>::get_ST_small(Node<T> *node)
 template <class T>
 void Tree<T>::push(T val)
 {
+  if(this->searchKey(val)){
+    return;
+  }
   cout << "ADD " << val << endl;
   Node<T> *newNode = new Node<T>(val);
   if (this->root == NULL)
